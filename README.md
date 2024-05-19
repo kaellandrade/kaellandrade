@@ -25,7 +25,10 @@
 [![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=c3002f)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-white?style=flat-square&logo=inkscape&logoColor=070912)](https://github.com/inkscape/inkscape)
-[![Inkscape](https://img.shields.io/badge/Manjaro-white?style=flat-square&logo=manjaro&logoColor=35BFA4)](https://manjaro.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-white?style=flat-square&logo=manjaro&logoColor=35BFA4)](https://manjaro.org/)
+[![Vscode](https://img.shields.io/badge/VsCode-white?style=flat-square&logo=visualstudio&logoColor=0066B8)](https://code.visualstudio.com/)
+[![Vscode](https://img.shields.io/badge/WebStorm-27282C?style=flat-square&logo=webstorm&logoColor=C0D14F)](https://www.jetbrains.com/webstorm/)
+[![Vscode](https://img.shields.io/badge/PhpStorm-27282C?style=flat-square&logo=phpstorm&logoColor=E800E8)](https://www.jetbrains.com/phpstorm/)
 --
 
 ### Socials
