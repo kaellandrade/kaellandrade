@@ -5,9 +5,7 @@
 
 ## My work tools:rocket:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide=css,html)
-
-### Stacks :computer:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide_progress=true)
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/en)
@@ -22,7 +20,6 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kaellandrade)
 [![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
 [![Angular](https://img.shields.io/badge/Angular-303030?style=flat-square&logo=angular&logoColor=c3002f)](https://angular.io/)
 
@@ -35,13 +32,14 @@
 [![Vscode](https://img.shields.io/badge/VsCode-white?style=flat-square&logo=visualstudio&logoColor=0066B8)](https://code.visualstudio.com/)
 [![Vscode](https://img.shields.io/badge/WebStorm-27282C?style=flat-square&logo=webstorm&logoColor=C0D14F)](https://www.jetbrains.com/webstorm/)
 [![Vscode](https://img.shields.io/badge/PhpStorm-27282C?style=flat-square&logo=phpstorm&logoColor=E800E8)](https://www.jetbrains.com/phpstorm/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kaellandrade)
 --
 
 ### Socials :link:
 
 <a href="https://kaellandrade.github.io/cael/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Site Pessoal-28a745?style=flat-square&logo=github&logoColor=black"/></a>
-<a href="https://www.github.com/kaellandrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Github-27282C?style=flat-square&logo=github&logoColor=white"/> </a>
-<a href="https://www.linkedin.com/in/micael-andrade-784523220/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2"  /></a>
+<a href="https://www.github.com/kaellandrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Github-27282C?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/micael-andrade-784523220/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://www.reddit.com/user/gandalf_cinzento/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Reddit-white?style=flat-square&logo=reddit&logoColor=FF4500"/></a>
 <a href="https://open.spotify.com/user/kaell_andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-black?style=flat-square&logo=spotify&logoColor=1ED760"/></a>
 
