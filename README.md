@@ -47,7 +47,7 @@
 
 ### Curiosities :eyes:
 
-<img src="https://wakatime.com/share/@710dc7b1-1e26-4e5e-a1e2-41bba79ac253/b38d44f4-46e0-44a0-99c3-3466ceb4c743.svg">
+<iframe src="https://lichess.org/tv/frame?theme=brown&bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
 
 <br><hr>
 [🔼 Back to top](#welcome-metal)
