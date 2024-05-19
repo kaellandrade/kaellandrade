@@ -3,7 +3,7 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaell_andrade&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=b14e79&bar_color_cover=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)
 
-## Stack
+## My work tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide=css,html)
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
@@ -22,8 +22,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kaellandrade)
 [![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
 [![Angular](https://img.shields.io/badge/Angular-303030?style=flat-square&logo=angular&logoColor=c3002f)](https://angular.io/)
-[![Figma](https://img.shields.io/badge/figma-white?style=flat-square&logo=figma&logoColor=c3002f)](https://www.figma.com/)
-
+[![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=c3002f)](https://www.figma.com/)
+[![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
+[![Inkscape](https://img.shields.io/badge/Inkscape-white?style=flat-square&logo=inkscape&logoColor=070912)](https://github.com/inkscape/inkscape)
+[![Inkscape](https://img.shields.io/badge/Manjaro-white?style=flat-square&logo=manjaro&logoColor=35BFA4)](https://manjaro.org/)
 --
 
 ### Socials
