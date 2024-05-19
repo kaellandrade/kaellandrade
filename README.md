@@ -42,12 +42,17 @@
 <a href="https://www.linkedin.com/in/micael-andrade-784523220/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://www.reddit.com/user/gandalf_cinzento/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Reddit-white?style=flat-square&logo=reddit&logoColor=FF4500"/></a>
 <a href="https://open.spotify.com/user/kaell_andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-black?style=flat-square&logo=spotify&logoColor=1ED760"/></a>
+<a href="https://discord.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kaellandrade-white?style=flat-square&logo=discord&logoColor=5462E4"/></a>
+<a href="https://store.epicgames.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/kaellandrade-white?style=flat-square&logo=epicgames&logoColor=black"/></a>
+<a href="https://steamcommunity.com/profiles/76561198244978636/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Steam-white?style=flat-square&logo=steam&logoColor=136496"/></a>
+<a href="https://account.xbox.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kaell2016-white?style=flat-square&logo=xbox&logoColor=green"/></a>
+<a href="https://lichess.org/@/kaell_andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lichess-black?style=flat-square&logo=lichess&logoColor=white"/></a>
 
 ---
 
 ### Curiosities :eyes:
 
-<iframe src="https://lichess.org/tv/frame?theme=brown&bg=dark" style="width: 400px; height: 444px;" allowtransparency="true" frameborder="0"></iframe>
+TODO..
 
 <br><hr>
 [🔼 Back to top](#welcome-metal)
