@@ -4,7 +4,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)
 
 ## Stack
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide=css,html)
 
 ![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black)
