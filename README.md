@@ -6,23 +6,23 @@
 ## Stack
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide=css,html)
 
-[![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/en)
-[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)](https://react.dev/)
-[![ReactNative](https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=React)](https://reactnative.dev/)
+[![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+[![ReactNative](https://img.shields.io/badge/-ReactNative-blue?style=flat-square&logo=React&logoColor=white)](https://reactnative.dev/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![Primeflex](https://img.shields.io/badge/PrimeFlex-563D7C?style=flat-square&logo=angular)](https://primeflex.org/)
-[![Sass](https://img.shields.io/badge/SASS-pink?style=flat-square&logo=sass)](https://primeflex.org/)
+[![Sass](https://img.shields.io/badge/SASS-BF4080?style=flat-square&logo=sass)](https://sass-lang.com/)
 [![PrimeNG](https://img.shields.io/badge/PrimeNG-blue?style=flat-square&logo=angular&logoColor=red)](https://primeng.org/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=black)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kaellandrade)
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP&logoColor=blue)](https://www.php.net/)
-[![Angular](https://img.shields.io/badge/Angular-black?style=flat-square&logo=angular&logoColor=red)](https://angular.io/)
-
+[![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
+[![Angular](https://img.shields.io/badge/Angular-303030?style=flat-square&logo=angular&logoColor=c3002f)](https://angular.io/)
+[![Figma](https://img.shields.io/badge/figma-white?style=flat-square&logo=figma&logoColor=c3002f)](https://www.figma.com/)
 
 --
 
