@@ -1,10 +1,13 @@
-### Welcome 👋 
+### Welcome :metal:
 
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaell_andrade&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=b14e79&bar_color_cover=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)
 
-## My work tools
+## My work tools:rocket:
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide=css,html)
+
+### Stacks :computer:
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/en)
@@ -22,6 +25,9 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/kaellandrade)
 [![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net/)
 [![Angular](https://img.shields.io/badge/Angular-303030?style=flat-square&logo=angular&logoColor=c3002f)](https://angular.io/)
+
+### Tools :hammer:
+
 [![Figma](https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=c3002f)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-white?style=flat-square&logo=inkscape&logoColor=070912)](https://github.com/inkscape/inkscape)
@@ -31,24 +37,19 @@
 [![Vscode](https://img.shields.io/badge/PhpStorm-27282C?style=flat-square&logo=phpstorm&logoColor=E800E8)](https://www.jetbrains.com/phpstorm/)
 --
 
-### Socials
-<ul style="list-style-type: none; align-items: center; font-size:16px;">
-<li>
-<a href="https://kaellandrade.github.io/cael/" target="_blank" rel="noreferrer"><img src="https://kaellandrade.github.io/cael/img/logos/cael.svg" width="32" height="16" /> Site Pessoal</a> 
-</li>
-<li>
-<a href="https://www.github.com/kaellandrade" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="16" /> Gihub</a> 
-</li>
-<li>
-<a href="https://www.linkedin.com/in/micael-andrade-784523220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="16" />Linkedin</a> 
-</li>
-<li>
-<a href="https://www.reddit.com/user/gandalf_cinzento/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/14413/reddit.svg" width="32" height="16"/> Reddit</a> 
-</li>
-</ul>
+### Socials :link:
 
+<a href="https://kaellandrade.github.io/cael/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Site Pessoal-28a745?style=flat-square&logo=github&logoColor=black"/></a>
+<a href="https://www.github.com/kaellandrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Github-27282C?style=flat-square&logo=github&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/micael-andrade-784523220/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linkedin-white?style=flat-square&logo=linkedin&logoColor=0A66C2"  /></a>
+<a href="https://www.reddit.com/user/gandalf_cinzento/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Reddit-white?style=flat-square&logo=reddit&logoColor=FF4500"/></a>
+<a href="https://open.spotify.com/user/kaell_andrade" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Spotify-black?style=flat-square&logo=spotify&logoColor=1ED760"/></a>
 
+---
 
+### Curiosities :eyes:
 
+<img src="https://wakatime.com/share/@710dc7b1-1e26-4e5e-a1e2-41bba79ac253/b38d44f4-46e0-44a0-99c3-3466ceb4c743.svg">
 
-<embed src="https://wakatime.com/share/@710dc7b1-1e26-4e5e-a1e2-41bba79ac253/b38d44f4-46e0-44a0-99c3-3466ceb4c743.svg"></embed>
+<br><hr>
+[🔼 Back to top](#welcome-metal)
