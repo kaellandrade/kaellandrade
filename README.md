@@ -3,7 +3,7 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaell_andrade&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=b14e79&bar_color_cover=true)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)
 
-## My work tools:rocket:
+## My work tools :rocket:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide_progress=true)
 
