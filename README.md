@@ -1,7 +1,7 @@
 ### Welcome :metal:
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=kaell_andrade&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=b14e79&bar_color_cover=true)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kaell_andrade&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://open.spotify.com/user/kaell_andrade)
+[![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=kaell_andrade&count=7)](https://open.spotify.com/user/kaell_andrade)
 
 ## My work tools :rocket:
 
