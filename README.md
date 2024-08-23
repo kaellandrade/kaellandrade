@@ -29,13 +29,13 @@
 [![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=c3002f)](https://www.figma.com/)
 [![Notion](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-white?style=for-the-badge&logo=inkscape&logoColor=070912)](https://github.com/inkscape/inkscape)
-[![Manjaro]
-(https://img.shields.io/badge/Manjaro-white?style=for-the-badge&logo=manjaro&logoColor=35BFA4)](https://manjaro.org/)
+[![Manjaro](https://img.shields.io/badge/Manjaro-white?style=for-the-badge&logo=manjaro&logoColor=35BFA4)](https://manjaro.org/)
 [![Vscode](https://img.shields.io/badge/VsCode-white?style=for-the-badge&logo=visualstudio&logoColor=0066B8)](https://code.visualstudio.com/)
 [![Vscode](https://img.shields.io/badge/WebStorm-27282C?style=for-the-badge&logo=webstorm&logoColor=C0D14F)](https://www.jetbrains.com/webstorm/)
 [![Vscode](https://img.shields.io/badge/PhpStorm-27282C?style=for-the-badge&logo=phpstorm&logoColor=E800E8)](https://www.jetbrains.com/phpstorm/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/kaellandrade)
---
+
+---
 
 ### Socials :link:
 
