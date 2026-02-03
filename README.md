@@ -6,7 +6,6 @@
 ## My work tools :rocket:
 
 [![roadmap.sh](https://roadmap.sh/card/wide/64fbc9b65ce9f4ca58a6a441?variant=dark)](https://roadmap.sh)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaellandrade&hide_progress=true)
 
 [![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/en)
