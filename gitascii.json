@@ -13,7 +13,8 @@
         "height": 90
       },
       "config": {
-        "borderColor": "#f97316"
+        "borderColor": "#f97316",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -31687,11 +31688,11 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
-        "y": 106
+        "x": 288,
+        "y": 205
       },
       "size": {
-        "width": 496,
+        "width": 500,
         "height": 152
       },
       "config": {
@@ -31725,12 +31726,12 @@
       "widgetId": "ascii-text",
       "name": "Ascii-text Widget",
       "position": {
-        "x": 0,
-        "y": 478
+        "x": 288,
+        "y": 122
       },
       "size": {
-        "width": 792,
-        "height": 120
+        "width": 488,
+        "height": 88
       },
       "config": {
         "customText": "Stay strong, stay well!",
@@ -31762,12 +31763,12 @@
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 296,
-        "y": 274
+        "x": 8,
+        "y": 504
       },
       "size": {
-        "width": 496,
-        "height": 84
+        "width": 788,
+        "height": 120
       },
       "config": {
         "selectedTechs": [
@@ -31806,13 +31807,14 @@
           "linux"
         ],
         "theme": "dark",
-        "showTitle": false,
+        "showTitle": true,
         "perLine": 16,
         "animationType": "slide-down",
         "animationPreviewKey": 11,
         "animationDelay": 0,
         "lockAspectRatio": false,
-        "hideBorder": true
+        "hideBorder": true,
+        "customTitle": ""
       },
       "locked": false,
       "visible": true,
@@ -31824,7 +31826,7 @@
       "name": "Social-media Widget",
       "position": {
         "x": 0,
-        "y": 366
+        "y": 405
       },
       "size": {
         "width": 792,
@@ -31858,25 +31860,6 @@
       "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_1788100984444",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 454
-      },
-      "size": {
-        "width": 792,
-        "height": 40
-      },
-      "config": {
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
     }
   ],
   "globalStyles": {
@@ -31884,11 +31867,12 @@
     "textColor": "#e5e5e5",
     "accentColor": "#f97316",
     "borderColor": "#252525",
-    "fontFamily": "'JetBrains Mono', monospace",
+    "fontFamily": "JetBrains Mono",
     "borderRadius": 0,
-    "padding": 24,
+    "padding": 0,
     "themeMode": "dark",
-    "templateStyle": "native_simple"
+    "templateStyle": "native_simple",
+    "transparentBackground": false
   },
   "templateId": "native_simple",
   "profileSlug": "default"
