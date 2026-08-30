@@ -9,10 +9,12 @@
         "y": 0
       },
       "size": {
-        "width": 800,
+        "width": 792,
         "height": 90
       },
-      "config": {},
+      "config": {
+        "borderColor": "#f97316"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 1,
@@ -31673,7 +31675,8 @@
         "brightness": 80,
         "autoContrast": true,
         "dithering": true,
-        "colorMode": "color"
+        "colorMode": "color",
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -31688,7 +31691,7 @@
         "y": 106
       },
       "size": {
-        "width": 504,
+        "width": 496,
         "height": 152
       },
       "config": {
@@ -31710,7 +31713,8 @@
         "showStatus": false,
         "showStars": false,
         "showUptime": true,
-        "lockAspectRatio": false
+        "lockAspectRatio": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -31722,10 +31726,10 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 494
+        "y": 478
       },
       "size": {
-        "width": 800,
+        "width": 792,
         "height": 120
       },
       "config": {
@@ -31745,7 +31749,8 @@
         "detail": "medium",
         "cols": 45,
         "animationType": "glitch",
-        "animationPreviewKey": 4
+        "animationPreviewKey": 4,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -31761,7 +31766,7 @@
         "y": 274
       },
       "size": {
-        "width": 504,
+        "width": 496,
         "height": 84
       },
       "config": {
@@ -31806,7 +31811,8 @@
         "animationType": "slide-down",
         "animationPreviewKey": 11,
         "animationDelay": 0,
-        "lockAspectRatio": false
+        "lockAspectRatio": false,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -31822,7 +31828,7 @@
       },
       "size": {
         "width": 792,
-        "height": 120
+        "height": 80
       },
       "config": {
         "selectedSocials": [
@@ -31846,11 +31852,31 @@
         },
         "badgeStyle": "for-the-badge",
         "animationType": "slide-right",
-        "animationPreviewKey": 1
+        "animationPreviewKey": 1,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
       "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788100984444",
+      "widgetId": "divider",
+      "name": "Divider Widget",
+      "position": {
+        "x": 0,
+        "y": 454
+      },
+      "size": {
+        "width": 792,
+        "height": 40
+      },
+      "config": {
+        "hideBorder": true
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
     }
   ],
   "globalStyles": {
