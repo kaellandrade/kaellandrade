@@ -31722,7 +31722,7 @@
       "name": "Ascii-text Widget",
       "position": {
         "x": 0,
-        "y": 394
+        "y": 494
       },
       "size": {
         "width": 800,
@@ -31807,6 +31807,46 @@
         "animationPreviewKey": 11,
         "animationDelay": 0,
         "lockAspectRatio": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1788100836572",
+      "widgetId": "social-media",
+      "name": "Social-media Widget",
+      "position": {
+        "x": 0,
+        "y": 366
+      },
+      "size": {
+        "width": 792,
+        "height": 120
+      },
+      "config": {
+        "selectedSocials": [
+          "github",
+          "linkedin",
+          "website",
+          "spotify",
+          "steam",
+          "discord"
+        ],
+        "socialUrls": {
+          "github": "https://github.com/kaellandrade",
+          "email": "mailto:mikael.java@gmail.com",
+          "website": "https://kaellandrade.github.io/cael/",
+          "spotify": "https://open.spotify.com/user/kaell_andrade",
+          "linkedin": "https://www.linkedin.com/in/micael-andrade-784523220/",
+          "reddit": "https://www.reddit.com/user/gandalf_cinzento/",
+          "steam": "https://steamcommunity.com/profiles/76561198244978636/",
+          "mastodon": "https://lichess.org/@/kaell_andrade",
+          "discord": "https://discord.gg/kaellandrade"
+        },
+        "badgeStyle": "for-the-badge",
+        "animationType": "slide-right",
+        "animationPreviewKey": 1
       },
       "locked": false,
       "visible": true,
